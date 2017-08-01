@@ -1,0 +1,17 @@
+- firebase cli 설정
+npm install firebase-tools -g
+
+firebase login
+
+firebase list
+
+firebase init
+
+
+git init
+git add README.md
+git config --global user.email "kwangbi@naver.com"
+git config --global user.name "kwangbi"
+git commit -m "*"
+git remote add origin https://github.com/kwangbi/memoWebApp.git
+git push -u origin master
